@@ -1,0 +1,9 @@
+{
+  "name": "strchrepl",
+  "version": "0.1.0",
+  "repo": "c-sdk/strchrepl",
+  "license": "unlicense",
+  "description": "String character replace",
+  "keywords": ["string", "replacement", "char"],
+  "src": ["./strchrepl.h", "./strchrepl.c"]
+}
